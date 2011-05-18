@@ -1,5 +1,7 @@
 package org.nds.dbdroid.sqlite;
 
+import org.nds.dbdroid.remoting.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 
