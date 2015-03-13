@@ -1,0 +1,2 @@
+DBDroid SQLite is an implementation of the [DBDroid](http://code.google.com/p/dbdroid/) library.
+DBDroid SQLite is an object-relational mapping (ORM) library for SQLite database on Android, providing a framework for mapping an object-oriented domain model to a traditional relational database.
